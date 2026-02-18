@@ -17,7 +17,7 @@ Implements component-level lazy loading using `React.lazy()` and `Suspense` to i
 
  ## Screenshot
 
-<img width="449" height="731" alt="image" src="https://github.com/user-attachments/assets/59bb6e51-08e2-471e-9873-14d0580127d9" />
+<img width="640" height="1024" alt="image" src="https://github.com/user-attachments/assets/65911be7-3b99-4090-9c7d-4044a00e99bb" />
 
 ---
 
@@ -60,7 +60,7 @@ Implements route-based lazy loading using React Router DOM along with `React.laz
 
 ## Screenshot
 
-<img width="1916" height="727" alt="image" src="https://github.com/user-attachments/assets/cb654a9b-ff0e-4dd8-b3a4-52c3309f0961" />
+<img width="1024" height="402" alt="image" src="https://github.com/user-attachments/assets/cb42f752-c49e-4329-97b7-fdb739c75039" />
 
 
 <img width="1918" height="417" alt="image" src="https://github.com/user-attachments/assets/3dcb4675-6cce-4fa2-906c-7338256ed6ca" />
