@@ -17,13 +17,13 @@ Implements component-level lazy loading using `React.lazy()` and `Suspense` to i
 
  ## Screenshot
 
-<img width="640" height="1024" alt="image" src="https://github.com/user-attachments/assets/65911be7-3b99-4090-9c7d-4044a00e99bb" />
+<img width="450" height="1024" alt="image" src="https://github.com/user-attachments/assets/65911be7-3b99-4090-9c7d-4044a00e99bb" />
 
 ---
 
-<img width="537" height="375" alt="image" src="https://github.com/user-attachments/assets/09f08065-7954-4afc-a46f-d64dc0cd9b73" />
+<img width="450" height="375" alt="image" src="https://github.com/user-attachments/assets/09f08065-7954-4afc-a46f-d64dc0cd9b73" />
 
-<img width="569" height="772" alt="image" src="https://github.com/user-attachments/assets/a86ac291-fba2-4f15-9453-a4c1ad7f0588" />
+<img width="450" height="772" alt="image" src="https://github.com/user-attachments/assets/a86ac291-fba2-4f15-9453-a4c1ad7f0588" />
 
 ## Key Features
 - Dynamic component import
