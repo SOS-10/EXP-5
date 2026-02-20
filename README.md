@@ -23,6 +23,9 @@ Implements component-level lazy loading using `React.lazy()` and `Suspense` to i
 
 <img width="450" height="375" alt="image" src="https://github.com/user-attachments/assets/09f08065-7954-4afc-a46f-d64dc0cd9b73" />
 
+
+
+
 <img width="450" height="772" alt="image" src="https://github.com/user-attachments/assets/a86ac291-fba2-4f15-9453-a4c1ad7f0588" />
 
 ## Key Features
